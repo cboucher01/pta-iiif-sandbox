@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://cboucher01.github.io/pta-iiif-sandbox/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in cboucher01/pta-iiif-sandbox project"
+        ]
+    },
+    "items": []
+}
