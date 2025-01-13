@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 95,
+    "height" : 73
+  }, {
+    "width" : 189,
+    "height" : 146
+  }, {
+    "width" : 377,
+    "height" : 292
+  }, {
+    "width" : 754,
+    "height" : 583
+  }, {
+    "width" : 1508,
+    "height" : 1165
+  }, {
+    "width" : 3015,
+    "height" : 2330
+  } ],
+  "profile" : "level0",
+  "width" : 3015,
+  "id" : "https://cboucher01.github.io/pta-iiif-sandbox/images/painting",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 2330
+}
