@@ -90,6 +90,87 @@
             ]
         },
         {
+            "id": "https://cboucher01.github.io/pta-iiif-sandbox/images/sasha-flower/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "sasha-flower"
+                ]
+            },
+            "height": 2828,
+            "width": 2121,
+            "items": [
+                {
+                    "id": "https://cboucher01.github.io/pta-iiif-sandbox/images/sasha-flower/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cboucher01.github.io/pta-iiif-sandbox/images/sasha-flower/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cboucher01.github.io/pta-iiif-sandbox/images/sasha-flower/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 67,
+                                                "height": 89
+                                            },
+                                            {
+                                                "width": 133,
+                                                "height": 177
+                                            },
+                                            {
+                                                "width": 266,
+                                                "height": 354
+                                            },
+                                            {
+                                                "width": 531,
+                                                "height": 707
+                                            },
+                                            {
+                                                "width": 1061,
+                                                "height": 1414
+                                            },
+                                            {
+                                                "width": 2121,
+                                                "height": 2828
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 2121,
+                                        "id": "https://cboucher01.github.io/pta-iiif-sandbox/images/sasha-flower",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 2828
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://cboucher01.github.io/pta-iiif-sandbox/images/sasha-flower/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://cboucher01.github.io/pta-iiif-sandbox/images/painting/canvas/",
             "type": "Canvas",
             "label": {
